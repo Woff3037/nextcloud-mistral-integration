@@ -1,0 +1,23 @@
+# Nextcloud
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Composer
+/vendor/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db

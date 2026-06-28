@@ -22,13 +22,15 @@ A Nextcloud app that acts as a secure backend bridge between **Nextcloud** and *
 
 ## **Installation**
 1. Clone this repository into your Nextcloud `apps` directory:
-   ```bash
-   git clone https://github.com/your-username/nextcloud-mistral-integration.git
-```
+  ```bash
+  git clone https://github.com/your-username/nextcloud-mistral-integration.git
+  ```
 
 2. Enable the app in Nextcloud:
   ```bash
-   php occ app:enable mistral_integration
+  php occ app:enable mistral_integration
+  ```
+```
   ```
 3. Configure the app via Nextcloud’s admin settings or `config.php`.
 
