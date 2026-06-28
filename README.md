@@ -1,5 +1,10 @@
 # Nextcloud-Mistral AI Integration
 
+## Disclaimer!
+This app has been developed mostly with **AI Tools**. Use this app with caution. And if you understand the languages being used please check for errors and contribute to the project. Thanks!
+
+## Introduction
+
 A Nextcloud app that acts as a secure backend bridge between **Nextcloud** and **Mistral AI**, enabling Mistral AI to access calendar, files, emails, and contacts via Nextcloud APIs.
 
 ---
@@ -29,8 +34,6 @@ A Nextcloud app that acts as a secure backend bridge between **Nextcloud** and *
 2. Enable the app in Nextcloud:
   ```bash
   php occ app:enable mistral_integration
-  ```
-```
   ```
 3. Configure the app via Nextcloud’s admin settings or `config.php`.
 
